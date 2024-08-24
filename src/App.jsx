@@ -7,9 +7,9 @@ import "./App.css";
 
 //Importing other child components
 import ContextComponent from "./ContextComponent";
-import Header from "./Components/Header";
-import Footer from "./Components/Footer";
-import ProductList from "./Components/ProductList";
+import Header from "./components/Header";
+import Footer from "./components/Footer";
+import ProductList from "./components/ProductList";
 
 function App() {
   return (
